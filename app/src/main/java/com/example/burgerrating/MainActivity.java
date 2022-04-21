@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
             textView.setText("Rating :" + ratingvalue + "\nThank You For The Rating");
         }
 
-//        hello guys welcome back
+
 
 
     }
